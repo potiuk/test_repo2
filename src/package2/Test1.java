@@ -8,6 +8,47 @@ package package2;
  * To change this template use File | Settings | File Templates.
  */
 public class Test1 {
+    private String arr[] = {
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "asdasdasd",
+            "bb"
+    };
 
     public static void main(String[] args) {
 
